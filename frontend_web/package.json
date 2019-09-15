@@ -32,6 +32,7 @@
     "@material-ui/icons": "^4.4.1",
     "antd": "^3.23.2",
     "auth0-js": "^9.11.3",
+    "auth0-lock": "^11.17.2",
     "chalk": "^2.4.2",
     "compression": "1.7.4",
     "connected-react-router": "^6.4.0",
