@@ -1,1 +1,4 @@
 #Add dependencies for the project here
+Django==2.2.5
+postgres==2.2.2
+psycopg2==2.8.3
